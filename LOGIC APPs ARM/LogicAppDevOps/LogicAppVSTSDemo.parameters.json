@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "crmOrgName": {
+      "value": "orgID.crm"
+    },
+    "dynamicscrmonline_1_Connection_DisplayName": {
+      "value": "kt@KTCRMTenant.onmicrosoft.com"
+    },
+    "dynamicscrmonline_1_Connection_Name": {
+      "value": "Dynamics365-ConnectionName"
+    },
+    "logicAppName": {
+      "value": "LogicAppVSTSDevopsDemo"
+    },
+    "vsts_bug_Create_url": {
+      "value": "https://ktVisualStudio.visualstudio.com/DefaultCollection/PRoject1/_apis/wit/workitems/$Bug?api-version=1.0"
+    },
+    "VSTS_password": {
+      "value": "PATKEY"
+    }
+  }
+}

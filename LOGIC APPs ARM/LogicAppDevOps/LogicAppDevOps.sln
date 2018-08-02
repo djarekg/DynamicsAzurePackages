@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "LogicAppDevOps", "LogicAppDevOps.deployproj", "{AE36529C-983F-4C67-86C4-3F51A33499D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE36529C-983F-4C67-86C4-3F51A33499D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE36529C-983F-4C67-86C4-3F51A33499D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE36529C-983F-4C67-86C4-3F51A33499D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE36529C-983F-4C67-86C4-3F51A33499D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895CD2D1-63C0-4123-B15B-2B8BAB23B8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895CD2D1-63C0-4123-B15B-2B8BAB23B8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895CD2D1-63C0-4123-B15B-2B8BAB23B8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895CD2D1-63C0-4123-B15B-2B8BAB23B8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F030251-985B-4C61-B0B1-921C276DA93C}
+	EndGlobalSection
+EndGlobal
