@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "LogicAppDevOps", "LogicAppDevOps.deployproj", "{AE36529C-983F-4C67-86C4-3F51A33499D8}"
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "LogicAppDevOps", "LogicAppDevOps\LogicAppDevOps.deployproj", "{AE36529C-983F-4C67-86C4-3F51A33499D8}"
+EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "LogicAppDevOpsLOgicAppParameterProject", "LogicAppDevOpsLOgicAppParameterProject\LogicAppDevOpsLOgicAppParameterProject.deployproj", "{895CD2D1-63C0-4123-B15B-2B8BAB23B8CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
